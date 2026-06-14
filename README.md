@@ -30,6 +30,7 @@ Iohanan Alves Monteiro da Silva
   (iohanan.monteiro@gmail.com)
 
 Herick Land Vasconcelos da Silva
+  (https://github.com/hericharadrim)
   (herick.vasconcelos113@gmail.com)
   
 Pedro Barros de Oliveira Neto
