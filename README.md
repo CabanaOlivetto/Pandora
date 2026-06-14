@@ -24,10 +24,11 @@ Alexandre Felipe Cabana Olivetto
   (Cabanaoprogramada@gmail.com)
   
 Andre Matheus Queiroz de Abreu
-  (a.mathq23@gmail.com)
   (https://github.com/andrematheusq)
+  (a.mathq23@gmail.com)
 
 Iohanan Alves Monteiro da Silva
+  
   (iohanan.monteiro@gmail.com)
 
 Herick Land Vasconcelos da Silva
@@ -35,4 +36,5 @@ Herick Land Vasconcelos da Silva
   (herick.vasconcelos113@gmail.com)
   
 Pedro Barros de Oliveira Neto
+  
   (pedro10barros30@gmail.com)
