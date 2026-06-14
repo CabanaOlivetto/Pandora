@@ -24,7 +24,8 @@ Alexandre Felipe Cabana Olivetto
   (Cabanaoprogramada@gmail.com)
   
 Andre Matheus Queiroz de Abreu
-
+  (a.mathq23@gmail.com)
+  (https://github.com/andrematheusq)
 
 Iohanan Alves Monteiro da Silva
   (iohanan.monteiro@gmail.com)
