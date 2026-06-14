@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_preto_e_branco",
+  "name":"sh_preto_e_branco",
+  "parent":{
+    "name":"Pandora",
+    "path":"Pandora.yyp",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

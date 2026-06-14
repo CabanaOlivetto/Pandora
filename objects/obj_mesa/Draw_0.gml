@@ -1,0 +1,1 @@
+draw_self(); // Desenha apenas a mesa física no mapa do escritório

@@ -1,0 +1,1 @@
+draw_self(); // Faz o quadro aparecer fixo na parede da sala
